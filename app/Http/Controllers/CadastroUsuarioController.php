@@ -11,8 +11,9 @@ class CadastroUsuarioController extends Controller
     public function cadastro(Request $request)
     {
         
-        $email = $request->email;
-        $senha = $request->pass;
-        return view('index', ['email' => $email]);
+        $email  =   $request->email;
+        $nome   =   $request->nome;
+        $senha  =   $request->pass;
+        return view('index', ['email' => $email, 'nome' => $nome]);
     }
 }
