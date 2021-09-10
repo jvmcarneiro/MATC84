@@ -4,8 +4,9 @@
 
 ### Atividade
 
-1 - O usuário deve adicionar mais um campo no formulário principal
-2 -  Esse campo deverá ser exibido na tela após o envio do formulário.
+1 - O usuário deve adicionar mais um campo no formulário principal.
+
+2 - Esse campo deverá ser exibido na tela após o envio do formulário.
 
 ### 🎲 Rodando o Servidor
 
